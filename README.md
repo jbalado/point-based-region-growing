@@ -13,4 +13,5 @@ The output is a semantic segmented point cloud by id and random colours.
 
 
 ## Citation
-Pendiente
+
+Navares-Vázquez, J. C., Balado, J., Arias, P., & Díaz-Vilariño, L. (2022). Virtual Seeds for Indoor Point Cloud Segmentation with Hololens 2. Available at SSRN 4322378.
