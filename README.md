@@ -1,6 +1,6 @@
 # Point-based Region Growing
 
-Created by Jesús Balado Frías
+Created by Jesús Balado Frías, University of Vigo
 
 ## Introduction
 
